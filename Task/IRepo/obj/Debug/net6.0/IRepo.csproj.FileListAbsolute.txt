@@ -1,0 +1,15 @@
+E:\CodeForces\Task\IRepo\bin\Debug\net6.0\IRepo.deps.json
+E:\CodeForces\Task\IRepo\bin\Debug\net6.0\IRepo.dll
+E:\CodeForces\Task\IRepo\bin\Debug\net6.0\IRepo.pdb
+E:\CodeForces\Task\IRepo\bin\Debug\net6.0\Dto.dll
+E:\CodeForces\Task\IRepo\bin\Debug\net6.0\Dto.pdb
+E:\CodeForces\Task\IRepo\obj\Debug\net6.0\IRepo.csproj.AssemblyReference.cache
+E:\CodeForces\Task\IRepo\obj\Debug\net6.0\IRepo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeForces\Task\IRepo\obj\Debug\net6.0\IRepo.AssemblyInfoInputs.cache
+E:\CodeForces\Task\IRepo\obj\Debug\net6.0\IRepo.AssemblyInfo.cs
+E:\CodeForces\Task\IRepo\obj\Debug\net6.0\IRepo.csproj.CoreCompileInputs.cache
+E:\CodeForces\Task\IRepo\obj\Debug\net6.0\IRepo.csproj.CopyComplete
+E:\CodeForces\Task\IRepo\obj\Debug\net6.0\IRepo.dll
+E:\CodeForces\Task\IRepo\obj\Debug\net6.0\refint\IRepo.dll
+E:\CodeForces\Task\IRepo\obj\Debug\net6.0\IRepo.pdb
+E:\CodeForces\Task\IRepo\obj\Debug\net6.0\ref\IRepo.dll

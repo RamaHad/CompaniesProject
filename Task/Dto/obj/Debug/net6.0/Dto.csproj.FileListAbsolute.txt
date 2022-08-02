@@ -1,0 +1,12 @@
+E:\CodeForces\Task\Dto\bin\Debug\net6.0\Dto.deps.json
+E:\CodeForces\Task\Dto\bin\Debug\net6.0\Dto.dll
+E:\CodeForces\Task\Dto\bin\Debug\net6.0\Dto.pdb
+E:\CodeForces\Task\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+E:\CodeForces\Task\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeForces\Task\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+E:\CodeForces\Task\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+E:\CodeForces\Task\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+E:\CodeForces\Task\Dto\obj\Debug\net6.0\Dto.dll
+E:\CodeForces\Task\Dto\obj\Debug\net6.0\refint\Dto.dll
+E:\CodeForces\Task\Dto\obj\Debug\net6.0\Dto.pdb
+E:\CodeForces\Task\Dto\obj\Debug\net6.0\ref\Dto.dll

@@ -1,0 +1,14 @@
+E:\CodeForces\Task\Database\bin\Debug\net6.0\Database.deps.json
+E:\CodeForces\Task\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+E:\CodeForces\Task\Database\bin\Debug\net6.0\Database.dll
+E:\CodeForces\Task\Database\bin\Debug\net6.0\Database.pdb
+E:\CodeForces\Task\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+E:\CodeForces\Task\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeForces\Task\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+E:\CodeForces\Task\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+E:\CodeForces\Task\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+E:\CodeForces\Task\Database\obj\Debug\net6.0\Database.dll
+E:\CodeForces\Task\Database\obj\Debug\net6.0\refint\Database.dll
+E:\CodeForces\Task\Database\obj\Debug\net6.0\Database.pdb
+E:\CodeForces\Task\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+E:\CodeForces\Task\Database\obj\Debug\net6.0\ref\Database.dll
